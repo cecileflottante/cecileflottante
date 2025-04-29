@@ -2,7 +2,7 @@
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on fun projects
-- 📫 How to reach me:+ clouisy@cogep.fr
+- 📫 How to reach me: clouisy@cogep.fr
 - 😄 Pronouns: she
 - ⚡ Fun fact: "Echec critique !"
 
