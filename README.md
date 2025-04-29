@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on fun projects
 - 📫 How to reach me: clouisy@cogep.fr
-- 😄 Pronouns: she
+- 😄 Pronouns: She
 - ⚡ Fun fact: "Echec critique !"
 
 <!---
